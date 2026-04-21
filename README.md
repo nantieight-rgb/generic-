@@ -11,7 +11,7 @@ lim n→∞ π_gen(n) = π
 
 ## Origin
 Qiita Origin Article:
-（https://qiita.com/ToyohroArimoto/items/020fe20e228c93dc4c37）
+https://qiita.com/ToyohroArimoto/items/020fe20e228c93dc4c37
 
 Initial Commit Hash:
-（e80b1938c20f1af19cb8ee4dbeb7171f45a3b836）
+e80b1938c20f1af19cb8ee4dbeb7171f45a3b836
