@@ -1,5 +1,4 @@
 # GitHub README（最小 Origin 版）
-# Generic π (ジェネリック円周率)
 
 # Generic π (ジェネリック円周率)
 
