@@ -1,4 +1,4 @@
-# generic-
+# GitHub README（最小 Origin 版）
 # Generic π (ジェネリック円周率)
 
 π_gen(n) = n * sin(π/n)
